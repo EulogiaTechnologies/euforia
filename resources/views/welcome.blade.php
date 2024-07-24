@@ -48,7 +48,7 @@
             <h1 class="text-4xl lg:text-6xl font-bold mb-4">Create Stunning Designs Effortlessly</h1>
             <p class="text-lg lg:text-2xl mb-8">Euforia is your ultimate tool for creating beautiful graphic designs and motion graphics with ease.</p>
             <div class="flex justify-center space-x-4">
-                <a href="#edit-image" class="bg-primary hover:bg-green-600 text-white py-2 px-6 rounded-full font-semibold">Edit Image Graphics</a>
+                <a href="#edit-image" class="bg-primary hover:bg-green-600 text-white py-2 px-6 rounded-full font-semibold">Create Image Graphics</a>
                 <a href="#create-video" class="bg-primary hover:bg-green-600 text-white py-2 px-6 rounded-full font-semibold">Create Motion Graphics</a>
             </div>
         </div>
@@ -116,6 +116,176 @@
             </div>
         </div>
     </section>
+
+    <!-- Pricing Section -->
+    <section id="pricing" class="py-16 bg-gray-100">
+        <div class="container mx-auto px-4 text-center">
+            <h2 class="text-3xl lg:text-5xl font-bold text-gray-800 mb-12">Pricing Plans</h2>
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+                <!-- Free Plan -->
+        
+                <div class="p-8 bg-white rounded shadow-lg border-t-4 border-primary">
+                    <h3 class="text-2xl font-semibold text-gray-800 mb-4">Free</h3>
+                    <p class="text-lg text-gray-600 mb-6">For users who want to save their work.</p>
+                    <ul class="text-left mb-6">
+                        <li class="mb-2 flex items-center">
+                            <svg class="w-6 h-6 text-primary mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+                            </svg>
+                            Save up to 10 designs
+                        </li>
+                        <li class="mb-2 flex items-center">
+                            <svg class="w-6 h-6 text-primary mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+                            </svg>
+                            Save up to 2 motion graphics
+                        </li>
+                        <li class="mb-2 flex items-center">
+                            <svg class="w-6 h-6 text-primary mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+                            </svg>
+                            Access to all free templates
+                        </li>
+                    </ul>
+                    <p class="text-lg text-gray-600 mb-6">Free forever</p>
+                    <a href="#" class="bg-primary hover:bg-green-600 text-white py-2 px-6 rounded-full font-semibold">Get Started</a>
+                </div>
+               <!-- Basic Plan -->
+                <div class="p-8 bg-white rounded shadow-lg border-t-4 border-primary">
+                    <h3 class="text-2xl font-semibold text-gray-800 mb-4">Basic</h3>
+                    <p class="text-lg text-gray-600 mb-6">For users who need advanced features.</p>
+                    <ul class="text-left mb-6">
+                        <li class="mb-2 flex items-center">
+                            <svg class="w-6 h-6 text-primary mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+                            </svg>
+                            Save up to 150 designs
+                        </li>
+                        <li class="mb-2 flex items-center">
+                            <svg class="w-6 h-6 text-primary mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+                            </svg>
+                            Save up to 5 motion graphics
+                        </li>
+                        <li class="mb-2 flex items-center">
+                            <svg class="w-6 h-6 text-primary mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+                            </svg>
+                            Access to stock images
+                        </li>
+                        <li class="mb-2 flex items-center">
+                            <svg class="w-6 h-6 text-primary mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+                            </svg>
+                            Auto remove background
+                        </li>
+                    </ul>
+                    <p class="text-lg text-gray-600 mb-6">$4 per month</p>
+                    <a href="#" class="bg-primary hover:bg-green-600 text-white py-2 px-6 rounded-full font-semibold">Get Started</a>
+                </div>
+
+
+                <div class="p-8 bg-white rounded shadow-lg border-t-4 border-primary">
+                    <h3 class="text-2xl font-semibold text-gray-800 mb-4">Premium</h3>
+                    <p class="text-lg text-gray-600 mb-6">For users who need advanced features.</p>
+                    <ul class="text-left mb-6">
+                        <li class="mb-2 flex items-center">
+                            <svg class="w-6 h-6 text-primary mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+                            </svg>
+                            Save up unlimited designs
+                        </li>
+                        <li class="mb-2 flex items-center">
+                            <svg class="w-6 h-6 text-primary mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+                            </svg>
+                            Save up to unlimited motion graphics
+                        </li>
+                        <li class="mb-2 flex items-center">
+                            <svg class="w-6 h-6 text-primary mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+                            </svg>
+                            Access to stock images
+                        </li>
+                        <li class="mb-2 flex items-center">
+                            <svg class="w-6 h-6 text-primary mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+                            </svg>
+                            Auto remove background
+                        </li>
+                        <li class="mb-2 flex items-center">
+                            <svg class="w-6 h-6 text-primary mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+                            </svg>
+                            AI graphic generator
+                        </li>
+                    </ul>
+                    <p class="text-lg text-gray-600 mb-6">$4 per month</p>
+                    <a href="#" class="bg-primary hover:bg-green-600 text-white py-2 px-6 rounded-full font-semibold">Get Started</a>
+                </div>
+            </div>
+
+           
+        
+        
+        </div>
+      
+    
+    </section>
+
+    <!-- Testimonials Section -->
+<section id="testimonials" class="py-16 bg-white">
+    <div class="container mx-auto px-4 text-center">
+        <h2 class="text-3xl lg:text-5xl font-bold text-gray-800 mb-12">What Our Users Say</h2>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+            <div class="p-8 bg-gray-100 rounded shadow-lg">
+                <p class="text-lg italic text-gray-600 mb-4">"Euforia's intuitive interface and powerful features have transformed my design workflow. It's a game-changer for graphic design and motion graphics!"</p>
+                <h3 class="text-xl font-semibold text-gray-800">- John Doe, Beta Tester</h3>
+            </div>
+            <div class="p-8 bg-gray-100 rounded shadow-lg">
+                <p class="text-lg italic text-gray-600 mb-4">"The templates and assets available in Euforia are top-notch. It's amazing how quickly I can create professional designs."</p>
+                <h3 class="text-xl font-semibold text-gray-800">- Jane Smith, Graphic Designer</h3>
+            </div>
+            <div class="p-8 bg-gray-100 rounded shadow-lg">
+                <p class="text-lg italic text-gray-600 mb-4">"As an early adopter, I've seen Euforia evolve into an essential tool for designers. The new features and constant updates are fantastic!"</p>
+                <h3 class="text-xl font-semibold text-gray-800">- Alex Johnson, Motion Graphics Artist</h3>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Contact Section -->
+<section id="contact" class="py-16 bg-gray-100">
+    <div class="container mx-auto px-4 text-center">
+        <h2 class="text-3xl lg:text-5xl font-bold text-gray-800 mb-12">Contact Us</h2>
+        <div class="max-w-lg mx-auto">
+            <form action="#" method="post">
+                <div class="mb-4">
+                    <label for="name" class="block text-gray-700 text-sm font-bold mb-2">Name</label>
+                    <input type="text" id="name" name="name" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+                </div>
+                <div class="mb-4">
+                    <label for="email" class="block text-gray-700 text-sm font-bold mb-2">Email</label>
+                    <input type="email" id="email" name="email" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+                </div>
+                <div class="mb-4">
+                    <label for="message" class="block text-gray-700 text-sm font-bold mb-2">Message</label>
+                    <textarea id="message" name="message" rows="4" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required></textarea>
+                </div>
+                <div class="mb-4">
+                    <button type="submit" class="bg-primary hover:bg-green-600 text-white py-2 px-6 rounded-full font-semibold">Send Message</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</section>
+
+    <!-- Footer Section -->
+    <footer class="bg-primary text-white py-4">
+        <div class="container mx-auto px-4 text-center">
+            <p class="text-sm">© 2024 Euforia. All Rights Reserved.</p>
+            <p class="text-sm">Euforia is a product of Eulogia Technologies.</p>
+        </div>
+    </footer>
 
     <script>
         const menuButton = document.getElementById('menu-button');
