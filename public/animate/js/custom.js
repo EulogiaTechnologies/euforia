@@ -8,13 +8,13 @@
             PexelsPagination: 20, // Max. number of images to show.
             PexelsLanguage: 'en-US', // The locale of the search you are performing. The current supported locales are: 'en-US' 'pt-BR' 'es-ES' 'ca-ES' 'de-DE' 'it-IT' 'fr-FR' 'sv-SE' 'id-ID' 'pl-PL' 'ja-JP' 'zh-TW' 'zh-CN' 'ko-KR' 'th-TH' 'nl-NL' 'hu-HU' 'vi-VN' 'cs-CZ' 'da-DK' 'fi-FI' 'uk-UA' 'el-GR' 'ro-RO' 'nb-NO' 'sk-SK' 'tr-TR' 'ru-RU'
             PexelsImgSize: 'large2x', // Valid image sizes are; original large2x large medium small portrait landscape
-            PixabayApiKey: '', // Your Pixabay API key. @see https://pixabay.com/api/docs/
+            PixabayApiKey: '23990890-175f71fc1cf7be8797906bce4', // Your Pixabay API key. @see https://pixabay.com/api/docs/
             PixabayPagination: 20, // Max. number of images to show.
             PixabayLanguage: 'en', // The locale of the search you are performing. Accepted values: cs, da, de, en, es, fr, id, it, hu, nl, no, pl, pt, ro, sk, fi, sv, tr, vi, th, bg, ru, el, ja, ko, zh
             PixabaySafeSearch: 'false', // A flag indicating that only images suitable for all ages should be returned. Accepted values: "true", "false".
             PixabayEditorsChice: 'false', // Select images that have received an Editor's Choice award. Accepted values: "true", "false".
             apiCaching: true, // Browser caching for API requests. Boolean value: true or false
-            maxUploadLimit: 10, // Maximum allowed file upload size (MB)
+            maxUploadLimit: 30, // Maximum allowed file upload size (MB)
             canvasWidth: 1080, // Default canvas width (px)
             canvasHeight: 1080, // Default canvas height (px)
             fontFamily: "Roboto", // Change only if you've changed the default font family from CSS
