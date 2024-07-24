@@ -4,8 +4,11 @@ use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\DesignController;
 
 
-
+Route::get('/', function (){
+    return view("welcome");
+});
 Route::get('/designs',[ DesignController::class, 'index']);
+
 Route::get('/videos',[ DesignController::class, 'index']);
 
 
