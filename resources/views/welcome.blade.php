@@ -62,9 +62,9 @@
             <h1 class="text-4xl lg:text-6xl font-bold mb-4">Create Stunning Designs Effortlessly</h1>
             <p class="text-lg lg:text-2xl mb-8">Euforia is your ultimate tool for creating beautiful graphic designs and motion graphics with ease.</p>
             <div class="flex justify-center space-x-4">
-                <a href="#edit-image" class="bg-primary hover:bg-green-600 text-white py-2 px-6 rounded-full font-semibold">Create Image Graphics</a>
-                <a href="#create-video" class="bg-primary hover:bg-green-600 text-white py-2 px-6 rounded-full font-semibold">Create Motion Graphics</a>
-            </div>
+    <a href="{{ route('edit-design') }}" class="bg-primary hover:bg-green-600 text-white py-2 px-6 rounded-full font-semibold">Create Image Graphics</a>
+    <a href="{{ route('edit-video') }}" class="bg-primary hover:bg-green-600 text-white py-2 px-6 rounded-full font-semibold">Create Motion Graphics</a>
+</div>
         </div>
     </section>
 
@@ -140,7 +140,7 @@
         
                 <div class="p-8 bg-white rounded shadow-lg border-t-4 border-primary">
                     <h3 class="text-2xl font-semibold text-gray-800 mb-4">Free</h3>
-                    <p class="text-lg text-gray-600 mb-6">For users who want to save their work.</p>
+                    <p class="text-lg text-gray-600 mb-6">Users can use without signUp and  who want to save their work signup.</p>
                     <ul class="text-left mb-6">
                         <li class="mb-2 flex items-center">
                             <svg class="w-6 h-6 text-primary mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">

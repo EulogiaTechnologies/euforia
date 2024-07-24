@@ -17,7 +17,7 @@
     <link id="palleon-theme-link" href="design/css/dark.css" rel="stylesheet" type="text/css">
     <link id="palleon-theme-link" href="design/css/light.css" rel="stylesheet" type="text/css">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
-    @vite('resources/css/app.css')
+
 </head>
 <body id="palleon" class="dark-theme">
     <!-- Page Loader START -->
