@@ -12,7 +12,7 @@
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link rel="stylesheet" href="animate/css/plugins.min.css">
   <link rel="stylesheet" href="animate/css/style.css">
-  <link id="theme-css" href="animate/css/dark.css" rel="stylesheet" type="text/css">
+  <!-- <link id="theme-css" href="animate/css/dark.css" rel="stylesheet" type="text/css"> -->
   <link id="theme-css" href="animate/css/light.css" rel="stylesheet" type="text/css">
 </head>
 <!-- HEAD END -->
