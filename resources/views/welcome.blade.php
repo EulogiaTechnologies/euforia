@@ -3,16 +3,30 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Euforia Landing Page</title>
+    <title>Euforia - Create Stunning Designs Effortlessly</title>
+
+    <!-- Meta tags -->
+    <meta name="description" content="Euforia by Eulogia Technologies is your ultimate tool for creating beautiful graphic designs and motion graphics with ease.">
+    <meta name="keywords" content="Euforia, graphic design, motion graphics, design tool, Eulogia Technologies, create designs, design software, cloud storage, collaboration tools">
+    <meta name="author" content="Eulogia Technologies">
+    <meta name="robots" content="index, follow">
+    <meta property="og:title" content="Euforia - Create Stunning Designs Effortlessly">
+    <meta property="og:description" content="Euforia by Eulogia Technologies is your ultimate tool for creating beautiful graphic designs and motion graphics with ease.">
+    <meta property="og:image" content="https://cdn.pixabay.com/photo/2017/03/07/18/42/graphic-2124949_1280.jpg"> <!-- Replace with your image URL -->
+    <meta property="og:url" content="https://www.euforia.eulogia.net"> <!-- Replace with your URL -->
+    <meta property="og:type" content="website">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Euforia - Create Stunning Designs Effortlessly">
+    <meta name="twitter:description" content="Euforia by Eulogia Technologies is your ultimate tool for creating beautiful graphic designs and motion graphics with ease.">
+    <meta name="twitter:image" content="https://cdn.pixabay.com/photo/2017/03/07/18/42/graphic-2124949_1280.jpg"> <!-- Replace with your image URL -->
+
+    <!-- CSS -->
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+
+    <!-- Custom Tailwind configuration -->
     <style>
-        /* Custom Tailwind configuration */
-        .bg-primary {
-            background-color: #62cb79;
-        }
-        .text-primary {
-            color: #62cb79;
-        }
+        .bg-primary { background-color: #62cb79; }
+        .text-primary { color: #62cb79; }
         .hero-bg {
             background-image: url('https://cdn.pixabay.com/photo/2017/03/07/18/42/graphic-2124949_1280.jpg'); /* Replace with your image URL */
             background-size: cover;
