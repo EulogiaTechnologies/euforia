@@ -34,8 +34,8 @@
             shapeLayerColor: '#87D68D', // Shape layer color on the timeline
             animatedTextLayerColor: '#87D68D', // Animated text layer color on the timeline
             audioLayerColor: '#E2EB98', // Audio layer color on the timeline
-            watermark: false, // true or false
-            watermarkText: 'Made with Pmotion', // The watermark text
+            watermark: true, // true or false
+            watermarkText: 'Made with Euforia', // The watermark text
             watermarkFontFamily: 'Roboto', // The font must be loaded on the first page load or must be a web safe font
             watermarkFontStyle: 'normal', // Possible values: "", "normal", "italic" or "oblique".
             watermarkFontColor: '#000', // Watermark font color

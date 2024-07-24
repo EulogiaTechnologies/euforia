@@ -46,8 +46,8 @@
             cursorWidth: 2, // Cursor width (Free drawing)
             enableGLFiltering: true, // set false if you experience issues on image filters.
             textureSize: 4096, // Required for enableGLFiltering
-            watermark: false, // true or false
-            watermarkText: 'https://euforia.eulogia.net/', // The watermark text
+            watermark: true, // true or false
+            watermarkText: 'Made with Euforia', // The watermark text
             watermarkFontFamily: 'Georgia, serif', // Should be a web safe font
             watermarkFontStyle: 'normal', // Possible values: "", "normal", "italic" or "oblique".
             watermarkFontColor: '#000', // Watermark font color
