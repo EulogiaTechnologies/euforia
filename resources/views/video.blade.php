@@ -5,9 +5,9 @@
   <title>Euforia - Animated GIF and Video Maker</title>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-  <meta name="title" content="Euforia - Animated GIF and Video Maker">
-  <meta name="description" content="Create animated videos with Euforia, a motion graphics editor with keyframing, filters, text animations, and more...">
-  <link rel="shortcut icon" href="animate/assets/favicon.png" type="image/png" />
+  <meta name="title" content="Pmotion - Animated GIF and Video Maker">
+  <meta name="description" content="Create animated videos with Pmotion, a motion graphics editor with keyframing, filters, text animations, and more...">
+  <link rel="shortcut icon" href="animate/assets/favicon.png" type="image/x-icon" />
   <link rel="preconnect" href="https://fonts.gstatic.com">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link rel="stylesheet" href="animate/css/plugins.min.css">
@@ -17,7 +17,7 @@
 </head>
 <!-- HEAD END -->
 <!-- BODY -->
-<body id="Euforia" draggable="false" class="loading">
+<body id="pmotion" draggable="false" class="loading">
   <!-- Page Loader START -->
   <div id="main-loader" class="loader-wrap">
     <div class="loader-inner">
@@ -1134,12 +1134,12 @@
   <script src="animate/js/jquery.min.js"></script>
   <script src="animate/js/fabric.min.js"></script>
   <script src="animate/js/plugins.min.js"></script>
-  <script src="animate/js/Euforia.min.js"></script>
+  <script src="animate/js/pmotion.min.js"></script>
   <script src="animate/js/custom.js"></script>
   <!-- Translation Strings -->
   <script>
     /* <![CDATA[ */
-    var EuforiaParams = {
+    var pmotionParams = {
         "t1": "Canvas Settings",
         "t2": "Width",
         "t3": "Height",
@@ -1260,7 +1260,7 @@
         "t119": "Uploading...",
         "t120": "Upload media",
         "t121": "File is too big.",
-        "t122": "The file is not compatible with Euforia.",
+        "t122": "The file is not compatible with Pmotion.",
         "t123": "Letter Spacing",
         "t124": "Stroke",
         "t125": "Shadow",
