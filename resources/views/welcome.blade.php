@@ -12,6 +12,7 @@
     <meta name="robots" content="index, follow">
     <meta property="og:title" content="Euforia - Create Stunning Designs Effortlessly">
     <meta property="og:description" content="Euforia by Eulogia Technologies is your ultimate tool for creating beautiful graphic designs and motion graphics with ease.">
+    <link rel="shortcut icon" href="design/assets/favicon.png" type="image/png" />
     <meta property="og:image" content="https://cdn.pixabay.com/photo/2017/03/07/18/42/graphic-2124949_1280.jpg"> <!-- Replace with your image URL -->
     <meta property="og:url" content="https://www.euforia.eulogia.net"> <!-- Replace with your URL -->
     <meta property="og:type" content="website">
@@ -38,7 +39,9 @@
     <!-- Navbar -->
     <nav class="bg-primary shadow p-4">
         <div class="container mx-auto flex justify-between items-center">
-            <a href="#" class="text-white text-2xl font-bold">Euforia</a>
+            <a href="#" class="text-white text-2xl font-bold">
+                <img class="w-36" src="logo.png" alt="Euforia" >
+            </a>
             <div class="block lg:hidden">
                 <button id="menu-button" class="text-white focus:outline-none">
                     <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
