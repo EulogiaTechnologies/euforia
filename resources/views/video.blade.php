@@ -5,8 +5,8 @@
   <title>Euforia - Animated GIF and Video Maker</title>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-  <meta name="title" content="Pmotion - Animated GIF and Video Maker">
-  <meta name="description" content="Create animated videos with Pmotion, a motion graphics editor with keyframing, filters, text animations, and more...">
+  <meta name="title" content="Euforia - Animated GIF and Video Maker">
+  <meta name="description" content="Create animated videos with euforia, a motion graphics editor with keyframing, filters, text animations, and more...">
   <link rel="shortcut icon" href="animate/assets/favicon.png" type="image/x-icon" />
   <link rel="preconnect" href="https://fonts.gstatic.com">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -1260,7 +1260,7 @@
         "t119": "Uploading...",
         "t120": "Upload media",
         "t121": "File is too big.",
-        "t122": "The file is not compatible with Pmotion.",
+        "t122": "The file is not compatible with Euforia",
         "t123": "Letter Spacing",
         "t124": "Stroke",
         "t125": "Shadow",
