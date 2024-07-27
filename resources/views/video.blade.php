@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
   <meta name="title" content="Euforia - Animated GIF and Video Maker">
   <meta name="description" content="Create animated videos with euforia, a motion graphics editor with keyframing, filters, text animations, and more...">
-  <link rel="shortcut icon" href="animate/assets/favicon.png" type="image/x-icon" />
+  <link rel="shortcut icon" href="animate/assets/favicon.png" type="image/png" />
   <link rel="preconnect" href="https://fonts.gstatic.com">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link rel="stylesheet" href="animate/css/plugins.min.css">
